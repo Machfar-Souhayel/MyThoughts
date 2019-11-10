@@ -364,6 +364,7 @@ section.profile img {
 }
 
 .hero  p {
+	margin-top: 35px;
 	font-weight: 300;
 	line-height: 1.8em;
 	color: #98a0ad;
@@ -466,7 +467,7 @@ section.profile .action-btn {
 		width: 280px;
 	}
 
-	
+
 }
 
 /* Small devices (landscape phones, 576px and up) */
